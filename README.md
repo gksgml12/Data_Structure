@@ -8,6 +8,9 @@ ADT의 개념을 중심으로 데이터 구조를 개발하는 방법을 배우�
 처음 VM ware 강산환경에서 Linux OS를 사용하여 힘들었지만 Stack, Queue, List Tree, BST, AVL Search Tree, Graph 자료 형식을 하나하나씩 직접 구현하면서 데이터 저장방식, 표현방법을 알아가면서 프로그래밍에 대해 흥미를 느끼게 되었습니다.
 
 HW1: Stack을 이용한 순서반전
+
 HW2: Linked list를 이용한 정렬
+
 HW3: BST구현
+
 HW4: AVL_Tree와 ADT_Tree를 이용하여 자료 검색의 과정을 분석하고 비교
